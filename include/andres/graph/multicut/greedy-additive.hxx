@@ -144,7 +144,7 @@ void greedyAdditiveEdgeContraction(
     }
 
     for (size_t i = 0; i < graph.numberOfEdges(); ++i)
-        edge_labels[i] = partition.find(graph.vertexOfEdge(i, 0)) == partition.find(graph.vertexOfEdge(i, 1)) ? '0' : '1';
+        edge_labels[i] = partition.find(graph.vertexOfEdge(i, 0)) == partition.find(graph.vertexOfEdge(i, 1)) ? 0 : 1;
 }
 
 } // namespace multicut
