@@ -1,4 +1,5 @@
 #include <iostream>
+#include <limits>
 
 #include "andres/graph/graph.hxx"
 #include "andres/graph/complete-graph.hxx"

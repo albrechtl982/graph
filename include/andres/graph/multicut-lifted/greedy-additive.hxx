@@ -4,6 +4,7 @@
 
 #include <cstddef>
 #include <iterator>
+#include <limits>
 #include <vector>
 #include <algorithm>
 #include <map>

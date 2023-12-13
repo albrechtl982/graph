@@ -3,6 +3,7 @@
 #define ANDRES_GRAPH_MULTICUT_KERNIGHAN_LIN_HXX
 
 #include <iomanip>
+#include <limits>
 #include <stack>
 #include <stdexcept>
 #include <set>

@@ -2,6 +2,7 @@
 #ifndef ANDRES_GRAPH_MINIMUM_SPANNING_TREE_HXX
 #define ANDRES_GRAPH_MINIMUM_SPANNING_TREE_HXX
 
+#include <limits>
 #include <queue>
 #include <stdexcept>
 #include <vector>

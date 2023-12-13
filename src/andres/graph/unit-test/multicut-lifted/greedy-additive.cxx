@@ -1,4 +1,5 @@
 #include <iostream>
+#include <limits>
 #include <stdexcept>
 
 #include "andres/graph/graph.hxx"
